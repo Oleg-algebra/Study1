@@ -1,9 +1,1 @@
-Study project
-Hello world!
-ch 2
-
-
-
-
-
-
+# Study1
